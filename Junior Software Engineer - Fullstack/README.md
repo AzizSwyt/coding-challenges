@@ -43,7 +43,6 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
 ## Evaluation criteria 🚨
 - Accuracy to follow instructions.
 - Respect of software engineering principles : DRY, KISS, YAGNI, SOLID.
-- Code readability and coding style (PSR).
 - Clean commit history in git making code review easy, push progressively instead of pushing the whole project in a single commit.
 - Quality of documentation (The readme should be short and concise, like open source projects readme).
 
@@ -60,11 +59,6 @@ The goal of this test is more to evaluate the way of thinking, design and qualit
 ## Links & resources
 
 ### Mandatory to know
-
-#### PSR & coding style
-- PSR-1: https://www.php-fig.org/psr/psr-1/
-- PSR-2: https://www.php-fig.org/psr/psr-2/
-- PSR: https://www.php-fig.org/psr/
 
 #### Code design principles
 - DRY: [Don't repeat your self](https://deviq.com/don-t-repeat-yourself/), [Is your code dry or wet?](https://www.softwareyoga.com/is-your-code-dry-or-wet/)
