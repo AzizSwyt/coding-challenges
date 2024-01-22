@@ -1,4 +1,4 @@
-# Junior Software Engineer - Fullstack (Laravel/VueJS)
+# Junior Software Engineer - Fullstack 
 
 ## How to participate
 
