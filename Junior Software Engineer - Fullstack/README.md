@@ -1,4 +1,4 @@
-# Junior Software Engineer - Fullstack 
+#  Software Engineer - Fullstack 
 
 ## How to participate
 
