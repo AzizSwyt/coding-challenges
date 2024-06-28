@@ -37,7 +37,7 @@ Make sure you spare an **average of 4 hours**, and a **maximum of 1 day** to wor
  
 ## Technologies to use
  
-- NodeJs / VueJs / Typescript
+- NodeJs / VueJs / Typescript / ( Remix Preffered )
 - Database - Your choice   
 
 ## Evaluation criteria 🚨
